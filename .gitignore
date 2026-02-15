@@ -1,0 +1,11 @@
+node_modules
+.history
+/dist/
+package-lock.json
+*.zip
+.DS_Store
+stats.html
+.next
+
+.env.local
+.env
